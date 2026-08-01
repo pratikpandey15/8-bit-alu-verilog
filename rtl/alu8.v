@@ -9,6 +9,8 @@ module alu8 (
     output reg Overflow
 );
 
-    // ALU logic yahan likhenge
+always @(*) begin
+
+end
 
 endmodule
