@@ -1,4 +1,3 @@
-# 8-bit-alu-verilog
 <h1 align="center">⚡ 8-Bit Arithmetic Logic Unit (ALU) in Verilog</h1>
 
 <p align="center">
